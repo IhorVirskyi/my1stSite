@@ -128,6 +128,10 @@ body {
   .skill-css {
     background-image: url("icon-css.svg");
   }
+
+  .skill-js {
+    background-image: url("icon-js.svg");
+  }
   
   .level {
     margin: 4px 0 16px;
