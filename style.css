@@ -131,8 +131,7 @@ body {
 
   .skill-js {
     background-image: url("icon-js.svg");
-    width: 15px;
-    height: 20px;
+    background-size: 25px 30px;
   }
   
   .level {
